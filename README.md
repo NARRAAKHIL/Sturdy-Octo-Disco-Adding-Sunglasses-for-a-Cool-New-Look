@@ -98,6 +98,5 @@ plt.subplot(122); plt.imshow(faceWithGlassesArithmetic[:,:,::-1]); plt.title("Wi
 
 ```
 ## OUTPUT: 
-
 ![akhil workshop 1 output](https://github.com/user-attachments/assets/b39a6363-bf9b-44f2-8b75-a8722d91d147)
 
